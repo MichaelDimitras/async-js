@@ -81,5 +81,3 @@ var countAllWords = function(inputFile, outputFile) {
     });
   })
 }
-
-countAllWords('/Users/michaeldimitras/test1', '/Users/michaeldimitras/outfile')
